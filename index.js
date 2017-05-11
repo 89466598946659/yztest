@@ -1,2 +1,2 @@
-exports.test = 'hello, world';
+exports.test = 'Hello, world. This is the second version';
 

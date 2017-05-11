@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "yztest",
   "version": "1.0.0",
   "description": "this is a test repository",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/89466598946659/test.git"
+    "url": "git+https://github.com/89466598946659/yztest.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/89466598946659/test/issues"
+    "url": "https://github.com/89466598946659/yztest/issues"
   },
-  "homepage": "https://github.com/89466598946659/test#readme"
+  "homepage": "https://github.com/89466598946659/yztest#readme"
 }
